@@ -1,0 +1,14 @@
+crewai
+crewai_tools
+python-dotenv
+google-generativeai
+beautifulsoup4
+pyyaml
+markitdown
+chonkie
+firecrawl
+chonkie[model2vec]
+markitdown 
+qdrant-client 
+fastembed
+

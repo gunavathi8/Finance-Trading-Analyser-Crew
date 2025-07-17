@@ -10,15 +10,17 @@ A modular AI-powered tool for generating financial trading analysis reports usin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/financial-trading-analysis.git
+   git clone https://github.com/gunavathi8/Finance-Trading-Analyser-Crew.git
    cd financial-trading-analysis
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Set up environment variables (e.g., OpenAI API key) in a .env file.
 
 4. Run the Streamlit app:
+   ```bash
    streamlit run src/app.py
 
 ## Usage

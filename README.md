@@ -1,12 +1,9 @@
 # 💹 Financial Trading Analysis Crew 🚀
 
 A modular, AI-powered multi-agent tool that delivers **real-time trading insights and strategic reports** using **CrewAI**, **OpenAI**, **yFinance**, and **Streamlit**.
----
-
-## 📈 Stock Analysis ![stock-icon](G:\My_GitHub_Projects\CrewAI_Projects\Multi_Agent_Financial_Trading_Analysis\diagram.png)
-Our crew-based system analyzes real-time stock data using `yFinance` and provides strategic trading decisions via multiple AI agents.
 
 ---
+
 
 ## ⚙️ Features
 - 🔍 Analyze stock data: price, volatility, moving averages, RSI, etc.
@@ -63,6 +60,12 @@ Our crew-based system analyzes real-time stock data using `yFinance` and provide
   - 📄 Report Generator
 
 - Tooling: yFinance for real-time stock data, OpenAI for LLM reasoning
+
+![Financial Trading Analysis Architecture](diagram.png)
+
+This diagram illustrates the modular structure of the Financial Trading Analysis Tool, showing the interaction between the Streamlit App, Crew, Agents, Tasks, and Tools.
+
+---
 
 ## 📝 Notes
 - 🔑 API Key: Required in .env file → OPENAI_API_KEY=your_key_here

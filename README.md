@@ -61,7 +61,7 @@ A modular, AI-powered multi-agent tool that delivers **real-time trading insight
 
 - Tooling: yFinance for real-time stock data, OpenAI for LLM reasoning
 
-![Financial Trading Analysis Architecture](diagram.png)
+![Financial Trading Analysis Architecture](block_diagram.png)
 
 This diagram illustrates the modular structure of the Financial Trading Analysis Tool, showing the interaction between the Streamlit App, Crew, Agents, Tasks, and Tools.
 
